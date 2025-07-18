@@ -1,0 +1,17 @@
+Melonr Bot - Licença de Uso Comercial Restrita
+Copyright (c) 2025 Team Work Time
+
+Este software, denominado “Melonr Bot”, é fornecido exclusivamente para uso **comercial autorizado**.
+
+É EXPRESSAMENTE PROIBIDO:
+- Uso pessoal, doméstico, educacional ou não-comercial.
+- Modificação, redistribuição, engenharia reversa ou publicação do código sem autorização escrita do autor.
+- Uso em plataformas públicas (como bots públicos no Discord) sem contrato.
+
+A posse ou uso deste código implica na aceitação dos termos acima.
+
+Para obter uma licença de uso ou permissão legal, entre em contato:
+📩 Email: contato@teamworktime.com  
+🌐 Site: https://teamworktime.com (ou seu site oficial)
+
+Todos os direitos reservados.
